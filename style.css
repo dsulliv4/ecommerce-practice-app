@@ -62,5 +62,15 @@ nav{
 }
 
 .sliderWrapper{
-    
+    display: flex;
+    width: 500vw;
 }
+
+.sliderItem {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+// this is a comment
